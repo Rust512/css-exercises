@@ -1,0 +1,19 @@
+p {
+    font-family: "Verdana", "DejaVu Sans", "sans-serif";
+    background-color: rgb(255, 155, 155);
+}
+
+div#first-div {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+p#cool {
+    font-size: 24px;
+}
+
+div#second-div {
+    background-color: rgb(100, 255, 100);
+    font-size: 24px;
+    font-weight: bold;
+}
